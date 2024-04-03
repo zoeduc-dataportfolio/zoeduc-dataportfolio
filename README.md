@@ -1,4 +1,4 @@
-## Welcome to ZoeDuc's Data Science Portfolio!
+## Welcome to Zoé Duc's Data Science Portfolio!
 
 👋 Hi, I’m @zoeduc-dataportfolio, and I'm passionate about Data Science and its AI/ML applications! This GitHub repository is where I'll be sharing my most recent projects in the field.
 
